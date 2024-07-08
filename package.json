@@ -7,5 +7,15 @@
     "test": "jest"
   },
   "author": "AryKurnia",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.6.0",
+    "eslint": "^9.6.0",
+    "globals": "^15.8.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10"
+  }
 }
